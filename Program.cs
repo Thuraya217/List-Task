@@ -39,7 +39,7 @@
 
                 List<int> uniqueNumbers = new List<int>(); // To track unique values
                 List<int> counts = new List<int>(); // To track how many times each appears
-
+                  
                 // Count frequency of each unique number
                 for (int i = 0; i < numbers.Count; i++)
                 {
